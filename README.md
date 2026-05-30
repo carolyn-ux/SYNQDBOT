@@ -1,0 +1,2 @@
+# SYNQDBOT
+Synqd Skin Bot
